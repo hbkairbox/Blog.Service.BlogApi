@@ -28,13 +28,7 @@ namespace Blog.Service.BlogApi.Api.Extensions
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Blog API",
-                    Description = "ASP.NET Core Web API",
-                    Contact = new OpenApiContact
-                    {
-                        Name = "Hari",
-                        Email = "hari.balakrishnan@airboxsystems.com"
-                    }
+                    Title = "Blog API"
                 });
 
                 // Set the comments path for the Swagger JSON and UI.
