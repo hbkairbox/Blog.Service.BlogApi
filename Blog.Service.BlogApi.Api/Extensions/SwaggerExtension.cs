@@ -32,8 +32,8 @@ namespace Blog.Service.BlogApi.Api.Extensions
                     Description = "ASP.NET Core Web API",
                     Contact = new OpenApiContact
                     {
-                        Name = "Mohammad Abu Musa Rabiul",
-                        Email = "a.m.rabiul@outlook.com"
+                        Name = "Hari",
+                        Email = "hari.balakrishnan@airboxsystems.com"
                     }
                 });
 
